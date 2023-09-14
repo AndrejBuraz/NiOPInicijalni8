@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\bin\Debug\InicijalnoPonavljanje8.exe.config
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\bin\Debug\InicijalnoPonavljanje8.exe
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\bin\Debug\InicijalnoPonavljanje8.pdb
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\obj\Debug\InicijalnoPonavljanje8.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\obj\Debug\InicijalnoPonavljanje8.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\obj\Debug\InicijalnoPonavljanje8.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\obj\Debug\InicijalnoPonavljanje8.exe
+C:\Users\HP\source\repos\InicijalnoPonavljanje8\InicijalnoPonavljanje8\obj\Debug\InicijalnoPonavljanje8.pdb
